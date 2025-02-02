@@ -25,7 +25,7 @@ A Point of Sale (POS) system for managing services and cart functionalities, bui
 Open a terminal and run these commands:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/NischayAgrawal/pos-interface-v1
 cd pos-system
 
 ```
