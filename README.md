@@ -30,7 +30,7 @@ cd pos-system
 
 ```
 ### Step 2: Setup the Backend (JSON Server)
-Navigate to the backend folder:
+Open another terminal and Navigate to the backend folder:
 
 ```bash
 cd backend
