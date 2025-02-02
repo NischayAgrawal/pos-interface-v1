@@ -30,7 +30,7 @@ cd pos-system
 
 ```
 ### Step 2: Setup the Backend (JSON Server)
-Open another terminal and Navigate to the backend folder:
+Navigate to the backend folder:
 
 ```bash
 cd backend
@@ -38,7 +38,7 @@ npx json-server --watch db.json --port 5000
 
 ```
 ### Step 3: Setup the Frontend (React Application)
-Navigate to the frontend folder:
+Open another terminal and navigate to the frontend folder:
 
 ```bash
 cd frontend
