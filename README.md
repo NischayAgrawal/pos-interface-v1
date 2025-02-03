@@ -16,8 +16,6 @@ A Point of Sale (POS) system for managing services and cart functionalities, bui
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your machine.
-- [JSON Server](https://github.com/typicode/json-server) installed globally or locally as a dev dependency.
-
 ---
 
 ### Step 1: Clone the Repository
